@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-24T04:08:32 EDT" name="Suite" finished-at="2020-09-24T04:09:11 EDT" duration-ms="38853">
+    <groups>
+    </groups>
+    <test started-at="2020-09-24T04:08:32 EDT" name="testng" finished-at="2020-09-24T04:09:11 EDT" duration-ms="38853">
+      <class name="TestCases.LoginTestCase_01">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.LoginTestCase_01@6279cee3]" started-at="2020-09-24T04:08:32 EDT" name="setUp" finished-at="2020-09-24T04:08:59 EDT" duration-ms="26417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_loginpageTitle()[pri:1, instance:TestCases.LoginTestCase_01@6279cee3]" started-at="2020-09-24T04:08:59 EDT" name="verify_loginpageTitle" finished-at="2020-09-24T04:08:59 EDT" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_loginpageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.LoginTestCase_01@6279cee3]" started-at="2020-09-24T04:08:59 EDT" name="tearDown" finished-at="2020-09-24T04:08:59 EDT" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.LoginTestCase_01@6279cee3]" started-at="2020-09-24T04:08:59 EDT" name="setUp" finished-at="2020-09-24T04:09:09 EDT" duration-ms="9665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_loginFunction()[pri:2, instance:TestCases.LoginTestCase_01@6279cee3]" started-at="2020-09-24T04:09:09 EDT" name="verify_loginFunction" finished-at="2020-09-24T04:09:10 EDT" duration-ms="1057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_loginFunction -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.LoginTestCase_01@6279cee3]" started-at="2020-09-24T04:09:10 EDT" name="tearDown" finished-at="2020-09-24T04:09:11 EDT" duration-ms="894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.LoginTestCase_01 -->
+    </test> <!-- testng -->
+  </suite> <!-- Suite -->
+</testng-results>
