@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-09-24T04:08:32 EDT" name="Suite" finished-at="2020-09-24T04:09:11 EDT" duration-ms="38853">
+  <suite name="Suite" duration-ms="22763" started-at="2020-09-26T05:13:10 EDT" finished-at="2020-09-26T05:13:33 EDT">
     <groups>
     </groups>
-    <test started-at="2020-09-24T04:08:32 EDT" name="testng" finished-at="2020-09-24T04:09:11 EDT" duration-ms="38853">
+    <test name="testng" duration-ms="22763" started-at="2020-09-26T05:13:10 EDT" finished-at="2020-09-26T05:13:33 EDT">
       <class name="TestCases.LoginTestCase_01">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.LoginTestCase_01@6279cee3]" started-at="2020-09-24T04:08:32 EDT" name="setUp" finished-at="2020-09-24T04:08:59 EDT" duration-ms="26417" status="PASS">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.LoginTestCase_01@9838eb]" name="setUp" is-config="true" duration-ms="10760" started-at="2020-09-26T05:13:10 EDT" finished-at="2020-09-26T05:13:21 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_loginpageTitle()[pri:1, instance:TestCases.LoginTestCase_01@6279cee3]" started-at="2020-09-24T04:08:59 EDT" name="verify_loginpageTitle" finished-at="2020-09-24T04:08:59 EDT" duration-ms="39" status="PASS">
+        <test-method status="PASS" signature="verify_loginpageTitle()[pri:1, instance:TestCases.LoginTestCase_01@9838eb]" name="verify_loginpageTitle" duration-ms="8" started-at="2020-09-26T05:13:21 EDT" finished-at="2020-09-26T05:13:21 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_loginpageTitle -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.LoginTestCase_01@6279cee3]" started-at="2020-09-24T04:08:59 EDT" name="tearDown" finished-at="2020-09-24T04:08:59 EDT" duration-ms="675" status="PASS">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.LoginTestCase_01@9838eb]" name="tearDown" is-config="true" duration-ms="1040" started-at="2020-09-26T05:13:21 EDT" finished-at="2020-09-26T05:13:22 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.LoginTestCase_01@6279cee3]" started-at="2020-09-24T04:08:59 EDT" name="setUp" finished-at="2020-09-24T04:09:09 EDT" duration-ms="9665" status="PASS">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.LoginTestCase_01@9838eb]" name="setUp" is-config="true" duration-ms="10013" started-at="2020-09-26T05:13:22 EDT" finished-at="2020-09-26T05:13:32 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_loginFunction()[pri:2, instance:TestCases.LoginTestCase_01@6279cee3]" started-at="2020-09-24T04:09:09 EDT" name="verify_loginFunction" finished-at="2020-09-24T04:09:10 EDT" duration-ms="1057" status="PASS">
+        <test-method status="PASS" signature="verify_loginFunction()[pri:2, instance:TestCases.LoginTestCase_01@9838eb]" name="verify_loginFunction" duration-ms="186" started-at="2020-09-26T05:13:32 EDT" finished-at="2020-09-26T05:13:32 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_loginFunction -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.LoginTestCase_01@6279cee3]" started-at="2020-09-24T04:09:10 EDT" name="tearDown" finished-at="2020-09-24T04:09:11 EDT" duration-ms="894" status="PASS">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.LoginTestCase_01@9838eb]" name="tearDown" is-config="true" duration-ms="723" started-at="2020-09-26T05:13:32 EDT" finished-at="2020-09-26T05:13:33 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
